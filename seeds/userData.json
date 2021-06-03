@@ -1,0 +1,32 @@
+ [
+    {
+        "username": "sam",
+        "github": "samgtr",
+        "email": "sam@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "username": "sylvie",
+        "github": "sylvie",
+        "email": "sylvie@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "username": "charles",
+        "github": "charles",
+        "email": "charles@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "username": "max",
+        "github": "max",
+        "email": "max@gmail.com",
+        "password": "password1234"
+    },
+    {
+        "username": "lewis",
+        "github": "lewis",
+        "email": "lewis@gmail.com",
+        "password": "password1234"
+    }
+]

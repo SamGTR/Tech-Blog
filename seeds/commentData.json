@@ -1,0 +1,32 @@
+[
+    {
+        "user_id": 1,
+        "post_id": 3,
+        "comment_text": "Wow! I didn't know about partials. Thanks!"
+    },
+    {
+        "user_id": 4,
+        "post_id": 1,
+        "comment_text": "TEXT is another useful data type for entering long form text data."
+    },
+    {
+        "user_id": 2,
+        "post_id": 4,
+        "comment_text": "Ah, so that's what cookies are good for (besides eating ~.0)!"
+    },
+    {
+        "user_id": 3,
+        "post_id": 4,
+        "comment_text": "Great. Now I'm hungry for cookies."
+    },
+    {
+        "user_id": 5,
+        "post_id": 5,
+        "comment_text": "Did you know about salting?"
+    },
+    {
+        "user_id": 4,
+        "post_id": 5,
+        "comment_text": "Yeah! Adding that random data is a great way to force a unique hashed output, even when your users all pick 'password' for their password >.< "
+    }
+]
